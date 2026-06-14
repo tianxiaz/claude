@@ -1,0 +1,1600 @@
+{
+  "layer1": {
+    "question_scores": {
+      "1": {
+        "q_num": 1,
+        "dimension": "P",
+        "dim_zh": "团队目标与组织战略一致",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.4000000000000004,
+          "stakeholder": 3.25,
+          "all": 3.25
+        },
+        "expected": {
+          "team": 4.575,
+          "stakeholder": 4.183333333333333,
+          "all": 4.183333333333333
+        }
+      },
+      "2": {
+        "q_num": 2,
+        "dimension": "P",
+        "dim_zh": "团队成员拥有共同的价值观",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 4.0249999999999995,
+          "stakeholder": 3.633333333333333,
+          "all": 3.633333333333333
+        },
+        "expected": {
+          "team": 5.0,
+          "stakeholder": 4.55,
+          "all": 4.55
+        }
+      },
+      "3": {
+        "q_num": 3,
+        "dimension": "P",
+        "dim_zh": "每个成员都理解自己在实现团队目标中的角色",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.5,
+          "stakeholder": 2.4833333333333334,
+          "all": 2.4833333333333334
+        },
+        "expected": {
+          "team": 3.95,
+          "stakeholder": 3.766666666666666,
+          "all": 3.766666666666666
+        }
+      },
+      "4": {
+        "q_num": 4,
+        "dimension": "P",
+        "dim_zh": "团队有清晰且具激励性的愿景",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.775,
+          "stakeholder": 2.9,
+          "all": 2.9
+        },
+        "expected": {
+          "team": 3.8749999999999996,
+          "stakeholder": 3.8499999999999996,
+          "all": 3.8499999999999996
+        }
+      },
+      "5": {
+        "q_num": 5,
+        "dimension": "P",
+        "dim_zh": "团队使命每天激励着成员",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.875,
+          "stakeholder": 3.0999999999999996,
+          "all": 3.0999999999999996
+        },
+        "expected": {
+          "team": 3.8499999999999996,
+          "stakeholder": 4.033333333333333,
+          "all": 4.033333333333333
+        }
+      },
+      "6": {
+        "q_num": 6,
+        "dimension": "P",
+        "dim_zh": "团队与外部利益相关方有效沟通",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.0,
+          "stakeholder": 2.75,
+          "all": 2.75
+        },
+        "expected": {
+          "team": 4.2,
+          "stakeholder": 3.9166666666666665,
+          "all": 3.9166666666666665
+        }
+      },
+      "7": {
+        "q_num": 7,
+        "dimension": "E",
+        "dim_zh": "团队及时响应市场变化",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.95,
+          "stakeholder": 3.733333333333333,
+          "all": 3.733333333333333
+        },
+        "expected": {
+          "team": 4.95,
+          "stakeholder": 4.7,
+          "all": 4.7
+        }
+      },
+      "8": {
+        "q_num": 8,
+        "dimension": "E",
+        "dim_zh": "团队与合作伙伴关系良好",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.4250000000000003,
+          "stakeholder": 3.016666666666667,
+          "all": 3.016666666666667
+        },
+        "expected": {
+          "team": 4.5,
+          "stakeholder": 3.966666666666667,
+          "all": 3.966666666666667
+        }
+      },
+      "9": {
+        "q_num": 9,
+        "dimension": "E",
+        "dim_zh": "团队了解客户需求和期望",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.55,
+          "stakeholder": 2.9166666666666665,
+          "all": 2.9166666666666665
+        },
+        "expected": {
+          "team": 3.6,
+          "stakeholder": 3.8000000000000003,
+          "all": 3.8000000000000003
+        }
+      },
+      "10": {
+        "q_num": 10,
+        "dimension": "E",
+        "dim_zh": "团队从外部环境获取所需资源",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.15,
+          "stakeholder": 3.0666666666666664,
+          "all": 3.0666666666666664
+        },
+        "expected": {
+          "team": 4.4,
+          "stakeholder": 4.15,
+          "all": 4.15
+        }
+      },
+      "11": {
+        "q_num": 11,
+        "dimension": "E",
+        "dim_zh": "团队在行业中保持良好声誉",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.525,
+          "stakeholder": 2.433333333333333,
+          "all": 2.433333333333333
+        },
+        "expected": {
+          "team": 3.8249999999999997,
+          "stakeholder": 3.5999999999999996,
+          "all": 3.5999999999999996
+        }
+      },
+      "12": {
+        "q_num": 12,
+        "dimension": "E",
+        "dim_zh": "团队成员相互信任",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.025,
+          "stakeholder": 2.75,
+          "all": 2.75
+        },
+        "expected": {
+          "team": 3.85,
+          "stakeholder": 3.6333333333333333,
+          "all": 3.6333333333333333
+        }
+      },
+      "13": {
+        "q_num": 13,
+        "dimension": "R",
+        "dim_zh": "团队成员可以自由表达意见而不担心",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.925,
+          "stakeholder": 3.3000000000000003,
+          "all": 3.3000000000000003
+        },
+        "expected": {
+          "team": 5.0,
+          "stakeholder": 4.383333333333334,
+          "all": 4.383333333333334
+        }
+      },
+      "14": {
+        "q_num": 14,
+        "dimension": "R",
+        "dim_zh": "团队内冲突被建设性处理",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.7750000000000004,
+          "stakeholder": 3.216666666666667,
+          "all": 3.216666666666667
+        },
+        "expected": {
+          "team": 4.3500000000000005,
+          "stakeholder": 3.9166666666666674,
+          "all": 3.9166666666666674
+        }
+      },
+      "15": {
+        "q_num": 15,
+        "dimension": "R",
+        "dim_zh": "团队成员在困难时相互支持",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.125,
+          "stakeholder": 3.1666666666666665,
+          "all": 3.1666666666666665
+        },
+        "expected": {
+          "team": 4.05,
+          "stakeholder": 4.083333333333333,
+          "all": 4.083333333333333
+        }
+      },
+      "16": {
+        "q_num": 16,
+        "dimension": "R",
+        "dim_zh": "团队成员间有很强的凝聚力",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.675,
+          "stakeholder": 2.6666666666666665,
+          "all": 2.6666666666666665
+        },
+        "expected": {
+          "team": 3.6999999999999997,
+          "stakeholder": 3.7166666666666663,
+          "all": 3.7166666666666663
+        }
+      },
+      "17": {
+        "q_num": 17,
+        "dimension": "R",
+        "dim_zh": "团队成员相互欣赏彼此的贡献",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.5,
+          "stakeholder": 3.316666666666667,
+          "all": 3.316666666666667
+        },
+        "expected": {
+          "team": 4.5,
+          "stakeholder": 4.283333333333333,
+          "all": 4.283333333333333
+        }
+      },
+      "18": {
+        "q_num": 18,
+        "dimension": "R",
+        "dim_zh": "团队工作流程清晰定义",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.675,
+          "stakeholder": 2.683333333333333,
+          "all": 2.683333333333333
+        },
+        "expected": {
+          "team": 3.8,
+          "stakeholder": 3.783333333333333,
+          "all": 3.783333333333333
+        }
+      },
+      "19": {
+        "q_num": 19,
+        "dimension": "I",
+        "dim_zh": "决策高效且有效",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.3499999999999996,
+          "stakeholder": 3.4499999999999997,
+          "all": 3.4499999999999997
+        },
+        "expected": {
+          "team": 4.375,
+          "stakeholder": 4.3500000000000005,
+          "all": 4.3500000000000005
+        }
+      },
+      "20": {
+        "q_num": 20,
+        "dimension": "I",
+        "dim_zh": "角色和职责分工明确",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.65,
+          "stakeholder": 3.2000000000000006,
+          "all": 3.2000000000000006
+        },
+        "expected": {
+          "team": 4.65,
+          "stakeholder": 4.15,
+          "all": 4.15
+        }
+      },
+      "21": {
+        "q_num": 21,
+        "dimension": "I",
+        "dim_zh": "团队内信息流通顺畅",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.45,
+          "stakeholder": 3.3000000000000003,
+          "all": 3.3000000000000003
+        },
+        "expected": {
+          "team": 4.7,
+          "stakeholder": 4.383333333333334,
+          "all": 4.383333333333334
+        }
+      },
+      "22": {
+        "q_num": 22,
+        "dimension": "I",
+        "dim_zh": "团队有有效的会议管理",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.55,
+          "stakeholder": 3.533333333333333,
+          "all": 3.533333333333333
+        },
+        "expected": {
+          "team": 4.824999999999999,
+          "stakeholder": 4.699999999999999,
+          "all": 4.699999999999999
+        }
+      },
+      "23": {
+        "q_num": 23,
+        "dimension": "I",
+        "dim_zh": "团队持续改进流程",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.6999999999999997,
+          "stakeholder": 3.633333333333333,
+          "all": 3.633333333333333
+        },
+        "expected": {
+          "team": 4.824999999999999,
+          "stakeholder": 4.683333333333333,
+          "all": 4.683333333333333
+        }
+      },
+      "24": {
+        "q_num": 24,
+        "dimension": "I",
+        "dim_zh": "团队定期反思绩效",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.775,
+          "stakeholder": 2.8333333333333335,
+          "all": 2.8333333333333335
+        },
+        "expected": {
+          "team": 4.05,
+          "stakeholder": 4.066666666666666,
+          "all": 4.066666666666666
+        }
+      },
+      "25": {
+        "q_num": 25,
+        "dimension": "L",
+        "dim_zh": "团队成员有个人发展计划",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 4.025,
+          "stakeholder": 3.6500000000000004,
+          "all": 3.6500000000000004
+        },
+        "expected": {
+          "team": 4.95,
+          "stakeholder": 4.533333333333333,
+          "all": 4.533333333333333
+        }
+      },
+      "26": {
+        "q_num": 26,
+        "dimension": "L",
+        "dim_zh": "团队从成功和失败中学习",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.05,
+          "stakeholder": 3.016666666666667,
+          "all": 3.016666666666667
+        },
+        "expected": {
+          "team": 4.175,
+          "stakeholder": 4.016666666666667,
+          "all": 4.016666666666667
+        }
+      },
+      "27": {
+        "q_num": 27,
+        "dimension": "L",
+        "dim_zh": "知识共享被鼓励和实践",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.9250000000000003,
+          "stakeholder": 3.0000000000000004,
+          "all": 3.0000000000000004
+        },
+        "expected": {
+          "team": 4.15,
+          "stakeholder": 4.2,
+          "all": 4.2
+        }
+      },
+      "28": {
+        "q_num": 28,
+        "dimension": "L",
+        "dim_zh": "团队采用新方法和工具",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.775,
+          "stakeholder": 2.8000000000000003,
+          "all": 2.8000000000000003
+        },
+        "expected": {
+          "team": 4.125,
+          "stakeholder": 3.9666666666666663,
+          "all": 3.9666666666666663
+        }
+      },
+      "29": {
+        "q_num": 29,
+        "dimension": "L",
+        "dim_zh": "经验教训被记录和应用",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.775,
+          "stakeholder": 2.766666666666667,
+          "all": 2.766666666666667
+        },
+        "expected": {
+          "team": 3.5999999999999996,
+          "stakeholder": 3.5999999999999996,
+          "all": 3.5999999999999996
+        }
+      },
+      "30": {
+        "q_num": 30,
+        "dimension": "L",
+        "dim_zh": "领导力在团队中分布",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.025,
+          "stakeholder": 2.9499999999999997,
+          "all": 2.9499999999999997
+        },
+        "expected": {
+          "team": 4.275,
+          "stakeholder": 4.133333333333334,
+          "all": 4.133333333333334
+        }
+      },
+      "31": {
+        "q_num": 31,
+        "dimension": "Ld",
+        "dim_zh": "领导者有效授权团队成员",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.35,
+          "stakeholder": 3.0,
+          "all": 3.0
+        },
+        "expected": {
+          "team": 4.6,
+          "stakeholder": 4.066666666666666,
+          "all": 4.066666666666666
+        }
+      },
+      "32": {
+        "q_num": 32,
+        "dimension": "Ld",
+        "dim_zh": "领导者提供清晰的方向和指导",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.825,
+          "stakeholder": 3.483333333333333,
+          "all": 3.483333333333333
+        },
+        "expected": {
+          "team": 4.9,
+          "stakeholder": 4.416666666666667,
+          "all": 4.416666666666667
+        }
+      },
+      "33": {
+        "q_num": 33,
+        "dimension": "Ld",
+        "dim_zh": "领导者培育积极的团队文化",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.775,
+          "stakeholder": 2.65,
+          "all": 2.65
+        },
+        "expected": {
+          "team": 4.0,
+          "stakeholder": 3.816666666666667,
+          "all": 3.816666666666667
+        }
+      },
+      "34": {
+        "q_num": 34,
+        "dimension": "Ld",
+        "dim_zh": "领导者处理冲突和挑战得当",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 3.3750000000000004,
+          "stakeholder": 3.283333333333333,
+          "all": 3.283333333333333
+        },
+        "expected": {
+          "team": 4.7,
+          "stakeholder": 4.45,
+          "all": 4.45
+        }
+      },
+      "35": {
+        "q_num": 35,
+        "dimension": "Ld",
+        "dim_zh": "领导者在团队中培养未来领导者",
+        "q_en": "Current / 现状",
+        "q_zh": "",
+        "current": {
+          "team": 2.7249999999999996,
+          "stakeholder": 2.55,
+          "all": 2.55
+        },
+        "expected": {
+          "team": 3.85,
+          "stakeholder": 3.6166666666666667,
+          "all": 3.6166666666666667
+        }
+      }
+    },
+    "dimension_scores": {
+      "P": {
+        "abbr": "P",
+        "name": "Purpose and motivation",
+        "name_zh": "目的与动机",
+        "current": {
+          "team": 3.0958333333333337,
+          "stakeholder": 3.0194444444444444,
+          "all": 3.0194444444444444
+        },
+        "expected": {
+          "team": 4.241666666666666,
+          "stakeholder": 4.05,
+          "all": 4.05
+        }
+      },
+      "E": {
+        "abbr": "E",
+        "name": "External system and process",
+        "name_zh": "外部系统与流程",
+        "current": {
+          "team": 3.1041666666666665,
+          "stakeholder": 2.9861111111111107,
+          "all": 2.9861111111111107
+        },
+        "expected": {
+          "team": 4.1875,
+          "stakeholder": 3.975,
+          "all": 3.975
+        }
+      },
+      "R": {
+        "abbr": "R",
+        "name": "Relationship",
+        "name_zh": "关系",
+        "current": {
+          "team": 3.279166666666667,
+          "stakeholder": 3.058333333333333,
+          "all": 3.058333333333333
+        },
+        "expected": {
+          "team": 4.233333333333333,
+          "stakeholder": 4.027777777777778,
+          "all": 4.027777777777778
+        }
+      },
+      "I": {
+        "abbr": "I",
+        "name": "Internal system and process",
+        "name_zh": "内部系统与流程",
+        "current": {
+          "team": 3.4124999999999996,
+          "stakeholder": 3.3249999999999997,
+          "all": 3.3249999999999997
+        },
+        "expected": {
+          "team": 4.570833333333334,
+          "stakeholder": 4.388888888888888,
+          "all": 4.388888888888888
+        }
+      },
+      "L": {
+        "abbr": "L",
+        "name": "Learning",
+        "name_zh": "学习",
+        "current": {
+          "team": 3.095833333333333,
+          "stakeholder": 3.0305555555555563,
+          "all": 3.0305555555555563
+        },
+        "expected": {
+          "team": 4.2124999999999995,
+          "stakeholder": 4.074999999999999,
+          "all": 4.074999999999999
+        }
+      },
+      "Ld": {
+        "abbr": "Ld",
+        "name": "Leadership",
+        "name_zh": "领导力",
+        "current": {
+          "team": 3.21,
+          "stakeholder": 2.993333333333333,
+          "all": 2.993333333333333
+        },
+        "expected": {
+          "team": 4.41,
+          "stakeholder": 4.073333333333333,
+          "all": 4.073333333333333
+        }
+      }
+    }
+  },
+  "layer2": {
+    "dimension_comparison": [
+      {
+        "dimension": "P",
+        "name_zh": "目的与动机",
+        "team_current": 3.1,
+        "stakeholder_current": 3.02,
+        "difference": 0.08
+      },
+      {
+        "dimension": "E",
+        "name_zh": "外部系统与流程",
+        "team_current": 3.1,
+        "stakeholder_current": 2.99,
+        "difference": 0.12
+      },
+      {
+        "dimension": "R",
+        "name_zh": "关系",
+        "team_current": 3.28,
+        "stakeholder_current": 3.06,
+        "difference": 0.22
+      },
+      {
+        "dimension": "I",
+        "name_zh": "内部系统与流程",
+        "team_current": 3.41,
+        "stakeholder_current": 3.32,
+        "difference": 0.09
+      },
+      {
+        "dimension": "L",
+        "name_zh": "学习",
+        "team_current": 3.1,
+        "stakeholder_current": 3.03,
+        "difference": 0.07
+      },
+      {
+        "dimension": "Ld",
+        "name_zh": "领导力",
+        "team_current": 3.21,
+        "stakeholder_current": 2.99,
+        "difference": 0.22
+      }
+    ],
+    "team_top4": [
+      {
+        "dimension": "L",
+        "q_num": 25,
+        "q_text": "",
+        "score": 4.03
+      },
+      {
+        "dimension": "P",
+        "q_num": 2,
+        "q_text": "",
+        "score": 4.02
+      },
+      {
+        "dimension": "E",
+        "q_num": 7,
+        "q_text": "",
+        "score": 3.95
+      },
+      {
+        "dimension": "R",
+        "q_num": 13,
+        "q_text": "",
+        "score": 3.92
+      }
+    ],
+    "team_bottom4": [
+      {
+        "dimension": "R",
+        "q_num": 18,
+        "q_text": "",
+        "score": 2.68
+      },
+      {
+        "dimension": "E",
+        "q_num": 9,
+        "q_text": "",
+        "score": 2.55
+      },
+      {
+        "dimension": "E",
+        "q_num": 11,
+        "q_text": "",
+        "score": 2.52
+      },
+      {
+        "dimension": "P",
+        "q_num": 3,
+        "q_text": "",
+        "score": 2.5
+      }
+    ],
+    "stakeholder_top4": [
+      {
+        "dimension": "E",
+        "q_num": 7,
+        "q_text": "",
+        "score": 3.73
+      },
+      {
+        "dimension": "L",
+        "q_num": 25,
+        "q_text": "",
+        "score": 3.65
+      },
+      {
+        "dimension": "P",
+        "q_num": 2,
+        "q_text": "",
+        "score": 3.63
+      },
+      {
+        "dimension": "I",
+        "q_num": 23,
+        "q_text": "",
+        "score": 3.63
+      }
+    ],
+    "stakeholder_bottom4": [
+      {
+        "dimension": "Ld",
+        "q_num": 33,
+        "q_text": "",
+        "score": 2.65
+      },
+      {
+        "dimension": "Ld",
+        "q_num": 35,
+        "q_text": "",
+        "score": 2.55
+      },
+      {
+        "dimension": "P",
+        "q_num": 3,
+        "q_text": "",
+        "score": 2.48
+      },
+      {
+        "dimension": "E",
+        "q_num": 11,
+        "q_text": "",
+        "score": 2.43
+      }
+    ]
+  },
+  "layer3": {
+    "awareness": {
+      "P": {
+        "score": 3.1,
+        "level": "中等风险",
+        "description": "团队认为存在明显问题，需关注"
+      },
+      "E": {
+        "score": 3.1,
+        "level": "中等风险",
+        "description": "团队认为存在明显问题，需关注"
+      },
+      "R": {
+        "score": 3.28,
+        "level": "中等风险",
+        "description": "团队认为存在明显问题，需关注"
+      },
+      "I": {
+        "score": 3.41,
+        "level": "中等风险",
+        "description": "团队认为存在明显问题，需关注"
+      },
+      "L": {
+        "score": 3.1,
+        "level": "中等风险",
+        "description": "团队认为存在明显问题，需关注"
+      },
+      "Ld": {
+        "score": 3.21,
+        "level": "中等风险",
+        "description": "团队认为存在明显问题，需关注"
+      }
+    },
+    "blindspots": {
+      "P": {
+        "team_score": 3.1,
+        "stakeholder_score": 3.02,
+        "gap": 0.08,
+        "blindspot_type": "认知一致",
+        "blindspot_desc": "团队内部状态在相关方面前充分暴露",
+        "severity": "轻微"
+      },
+      "E": {
+        "team_score": 3.1,
+        "stakeholder_score": 2.99,
+        "gap": 0.12,
+        "blindspot_type": "认知一致",
+        "blindspot_desc": "团队内部状态在相关方面前充分暴露",
+        "severity": "轻微"
+      },
+      "R": {
+        "team_score": 3.28,
+        "stakeholder_score": 3.06,
+        "gap": 0.22,
+        "blindspot_type": "认知一致",
+        "blindspot_desc": "团队内部状态在相关方面前充分暴露",
+        "severity": "轻微"
+      },
+      "I": {
+        "team_score": 3.41,
+        "stakeholder_score": 3.32,
+        "gap": 0.09,
+        "blindspot_type": "认知一致",
+        "blindspot_desc": "团队内部状态在相关方面前充分暴露",
+        "severity": "轻微"
+      },
+      "L": {
+        "team_score": 3.1,
+        "stakeholder_score": 3.03,
+        "gap": 0.07,
+        "blindspot_type": "认知一致",
+        "blindspot_desc": "团队内部状态在相关方面前充分暴露",
+        "severity": "轻微"
+      },
+      "Ld": {
+        "team_score": 3.21,
+        "stakeholder_score": 2.99,
+        "gap": 0.22,
+        "blindspot_type": "认知一致",
+        "blindspot_desc": "团队内部状态在相关方面前充分暴露",
+        "severity": "轻微"
+      }
+    },
+    "health": {
+      "P": {
+        "assessment": "中等风险",
+        "awareness_level": "中等风险",
+        "blindspot": "认知一致",
+        "score": 3.1
+      },
+      "E": {
+        "assessment": "中等风险",
+        "awareness_level": "中等风险",
+        "blindspot": "认知一致",
+        "score": 3.1
+      },
+      "R": {
+        "assessment": "中等风险",
+        "awareness_level": "中等风险",
+        "blindspot": "认知一致",
+        "score": 3.28
+      },
+      "I": {
+        "assessment": "中等风险",
+        "awareness_level": "中等风险",
+        "blindspot": "认知一致",
+        "score": 3.41
+      },
+      "L": {
+        "assessment": "中等风险",
+        "awareness_level": "中等风险",
+        "blindspot": "认知一致",
+        "score": 3.1
+      },
+      "Ld": {
+        "assessment": "中等风险",
+        "awareness_level": "中等风险",
+        "blindspot": "认知一致",
+        "score": 3.21
+      }
+    }
+  },
+  "layer4": {
+    "gaps": {
+      "P": {
+        "current": 3.1,
+        "expected": 4.24,
+        "gap": 1.15,
+        "level": "强",
+        "description": "团队对此维度有较高的提升期望"
+      },
+      "E": {
+        "current": 3.1,
+        "expected": 4.19,
+        "gap": 1.08,
+        "level": "强",
+        "description": "团队对此维度有较高的提升期望"
+      },
+      "R": {
+        "current": 3.28,
+        "expected": 4.23,
+        "gap": 0.95,
+        "level": "中等",
+        "description": "适度提升空间"
+      },
+      "I": {
+        "current": 3.41,
+        "expected": 4.57,
+        "gap": 1.16,
+        "level": "强",
+        "description": "团队对此维度有较高的提升期望"
+      },
+      "L": {
+        "current": 3.1,
+        "expected": 4.21,
+        "gap": 1.12,
+        "level": "强",
+        "description": "团队对此维度有较高的提升期望"
+      },
+      "Ld": {
+        "current": 3.21,
+        "expected": 4.41,
+        "gap": 1.2,
+        "level": "强",
+        "description": "团队对此维度有较高的提升期望"
+      }
+    },
+    "improvements": {
+      "P": {
+        "gap": 1.15,
+        "level": "强",
+        "interpretation": "团队强烈认知到自身在该维度存在瓶颈，非常期待提升和改变"
+      },
+      "E": {
+        "gap": 1.08,
+        "level": "强",
+        "interpretation": "团队强烈认知到自身在该维度存在瓶颈，非常期待提升和改变"
+      },
+      "R": {
+        "gap": 0.95,
+        "level": "中等",
+        "interpretation": "团队认识到该维度有提升空间，期待适度改善"
+      },
+      "I": {
+        "gap": 1.16,
+        "level": "强",
+        "interpretation": "团队强烈认知到自身在该维度存在瓶颈，非常期待提升和改变"
+      },
+      "L": {
+        "gap": 1.12,
+        "level": "强",
+        "interpretation": "团队强烈认知到自身在该维度存在瓶颈，非常期待提升和改变"
+      },
+      "Ld": {
+        "gap": 1.2,
+        "level": "强",
+        "interpretation": "团队强烈认知到自身在该维度存在瓶颈，非常期待提升和改变"
+      }
+    }
+  },
+  "raw_data": {
+    "dimension_current_team": [
+      3.1,
+      3.1,
+      3.28,
+      3.41,
+      3.1,
+      3.21
+    ],
+    "dimension_current_stakeholder": [
+      3.02,
+      2.99,
+      3.06,
+      3.32,
+      3.03,
+      2.99
+    ],
+    "dimension_expected_team": [
+      4.24,
+      4.19,
+      4.23,
+      4.57,
+      4.21,
+      4.41
+    ],
+    "dimension_labels": [
+      "P(目的与动机)",
+      "E(外部系统与流程)",
+      "R(关系)",
+      "I(内部系统与流程)",
+      "L(学习)",
+      "Ld(领导力)"
+    ],
+    "dimension_abbrs": [
+      "P",
+      "E",
+      "R",
+      "I",
+      "L",
+      "Ld"
+    ],
+    "health_scores": [
+      "中等风险",
+      "中等风险",
+      "中等风险",
+      "中等风险",
+      "中等风险",
+      "中等风险"
+    ],
+    "blindspot_gaps": [
+      0.08,
+      0.12,
+      0.22,
+      0.09,
+      0.07,
+      0.22
+    ],
+    "improvement_gaps": [
+      1.15,
+      1.08,
+      0.95,
+      1.16,
+      1.12,
+      1.2
+    ],
+    "respondent_matrix": [
+      {
+        "name": "Team Member 1\n团队成员1",
+        "role": "Team Member",
+        "scores": {
+          "P": 3.15,
+          "E": 3.15,
+          "R": 3.27,
+          "I": 3.48,
+          "L": 3.08,
+          "Ld": 3.3
+        }
+      },
+      {
+        "name": "Team Member 2\n团队成员2",
+        "role": "Team Member",
+        "scores": {
+          "P": 3.08,
+          "E": 3.33,
+          "R": 3.3,
+          "I": 3.22,
+          "L": 3.03,
+          "Ld": 3.22
+        }
+      },
+      {
+        "name": "Team Member 3\n团队成员3",
+        "role": "Team Member",
+        "scores": {
+          "P": 3.15,
+          "E": 2.95,
+          "R": 3.22,
+          "I": 3.42,
+          "L": 3.12,
+          "Ld": 3.1
+        }
+      },
+      {
+        "name": "Team Leader\n团队领导",
+        "role": "Team Leader",
+        "scores": {
+          "P": 3.0,
+          "E": 2.98,
+          "R": 3.33,
+          "I": 3.53,
+          "L": 3.15,
+          "Ld": 3.22
+        }
+      },
+      {
+        "name": "Stakeholder 1\n相关方1",
+        "role": "Stakeholder",
+        "scores": {
+          "P": 2.87,
+          "E": 2.73,
+          "R": 2.57,
+          "I": 3.18,
+          "L": 3.0,
+          "Ld": 2.56
+        }
+      },
+      {
+        "name": "Stakeholder 2\n相关方2",
+        "role": "Stakeholder",
+        "scores": {
+          "P": 2.87,
+          "E": 2.77,
+          "R": 2.67,
+          "I": 3.12,
+          "L": 2.8,
+          "Ld": 2.56
+        }
+      }
+    ],
+    "question_scores_table": [
+      {
+        "q_num": 1,
+        "dimension": "P",
+        "q_zh": "",
+        "current_team": 3.4,
+        "current_stakeholder": 3.25,
+        "current_all": 3.25,
+        "expected_team": 4.58,
+        "expected_stakeholder": 4.18,
+        "expected_all": 4.18
+      },
+      {
+        "q_num": 2,
+        "dimension": "P",
+        "q_zh": "",
+        "current_team": 4.02,
+        "current_stakeholder": 3.63,
+        "current_all": 3.63,
+        "expected_team": 5.0,
+        "expected_stakeholder": 4.55,
+        "expected_all": 4.55
+      },
+      {
+        "q_num": 3,
+        "dimension": "P",
+        "q_zh": "",
+        "current_team": 2.5,
+        "current_stakeholder": 2.48,
+        "current_all": 2.48,
+        "expected_team": 3.95,
+        "expected_stakeholder": 3.77,
+        "expected_all": 3.77
+      },
+      {
+        "q_num": 4,
+        "dimension": "P",
+        "q_zh": "",
+        "current_team": 2.78,
+        "current_stakeholder": 2.9,
+        "current_all": 2.9,
+        "expected_team": 3.87,
+        "expected_stakeholder": 3.85,
+        "expected_all": 3.85
+      },
+      {
+        "q_num": 5,
+        "dimension": "P",
+        "q_zh": "",
+        "current_team": 2.88,
+        "current_stakeholder": 3.1,
+        "current_all": 3.1,
+        "expected_team": 3.85,
+        "expected_stakeholder": 4.03,
+        "expected_all": 4.03
+      },
+      {
+        "q_num": 6,
+        "dimension": "P",
+        "q_zh": "",
+        "current_team": 3.0,
+        "current_stakeholder": 2.75,
+        "current_all": 2.75,
+        "expected_team": 4.2,
+        "expected_stakeholder": 3.92,
+        "expected_all": 3.92
+      },
+      {
+        "q_num": 7,
+        "dimension": "E",
+        "q_zh": "",
+        "current_team": 3.95,
+        "current_stakeholder": 3.73,
+        "current_all": 3.73,
+        "expected_team": 4.95,
+        "expected_stakeholder": 4.7,
+        "expected_all": 4.7
+      },
+      {
+        "q_num": 8,
+        "dimension": "E",
+        "q_zh": "",
+        "current_team": 3.42,
+        "current_stakeholder": 3.02,
+        "current_all": 3.02,
+        "expected_team": 4.5,
+        "expected_stakeholder": 3.97,
+        "expected_all": 3.97
+      },
+      {
+        "q_num": 9,
+        "dimension": "E",
+        "q_zh": "",
+        "current_team": 2.55,
+        "current_stakeholder": 2.92,
+        "current_all": 2.92,
+        "expected_team": 3.6,
+        "expected_stakeholder": 3.8,
+        "expected_all": 3.8
+      },
+      {
+        "q_num": 10,
+        "dimension": "E",
+        "q_zh": "",
+        "current_team": 3.15,
+        "current_stakeholder": 3.07,
+        "current_all": 3.07,
+        "expected_team": 4.4,
+        "expected_stakeholder": 4.15,
+        "expected_all": 4.15
+      },
+      {
+        "q_num": 11,
+        "dimension": "E",
+        "q_zh": "",
+        "current_team": 2.52,
+        "current_stakeholder": 2.43,
+        "current_all": 2.43,
+        "expected_team": 3.82,
+        "expected_stakeholder": 3.6,
+        "expected_all": 3.6
+      },
+      {
+        "q_num": 12,
+        "dimension": "E",
+        "q_zh": "",
+        "current_team": 3.02,
+        "current_stakeholder": 2.75,
+        "current_all": 2.75,
+        "expected_team": 3.85,
+        "expected_stakeholder": 3.63,
+        "expected_all": 3.63
+      },
+      {
+        "q_num": 13,
+        "dimension": "R",
+        "q_zh": "",
+        "current_team": 3.92,
+        "current_stakeholder": 3.3,
+        "current_all": 3.3,
+        "expected_team": 5.0,
+        "expected_stakeholder": 4.38,
+        "expected_all": 4.38
+      },
+      {
+        "q_num": 14,
+        "dimension": "R",
+        "q_zh": "",
+        "current_team": 3.78,
+        "current_stakeholder": 3.22,
+        "current_all": 3.22,
+        "expected_team": 4.35,
+        "expected_stakeholder": 3.92,
+        "expected_all": 3.92
+      },
+      {
+        "q_num": 15,
+        "dimension": "R",
+        "q_zh": "",
+        "current_team": 3.12,
+        "current_stakeholder": 3.17,
+        "current_all": 3.17,
+        "expected_team": 4.05,
+        "expected_stakeholder": 4.08,
+        "expected_all": 4.08
+      },
+      {
+        "q_num": 16,
+        "dimension": "R",
+        "q_zh": "",
+        "current_team": 2.68,
+        "current_stakeholder": 2.67,
+        "current_all": 2.67,
+        "expected_team": 3.7,
+        "expected_stakeholder": 3.72,
+        "expected_all": 3.72
+      },
+      {
+        "q_num": 17,
+        "dimension": "R",
+        "q_zh": "",
+        "current_team": 3.5,
+        "current_stakeholder": 3.32,
+        "current_all": 3.32,
+        "expected_team": 4.5,
+        "expected_stakeholder": 4.28,
+        "expected_all": 4.28
+      },
+      {
+        "q_num": 18,
+        "dimension": "R",
+        "q_zh": "",
+        "current_team": 2.68,
+        "current_stakeholder": 2.68,
+        "current_all": 2.68,
+        "expected_team": 3.8,
+        "expected_stakeholder": 3.78,
+        "expected_all": 3.78
+      },
+      {
+        "q_num": 19,
+        "dimension": "I",
+        "q_zh": "",
+        "current_team": 3.35,
+        "current_stakeholder": 3.45,
+        "current_all": 3.45,
+        "expected_team": 4.38,
+        "expected_stakeholder": 4.35,
+        "expected_all": 4.35
+      },
+      {
+        "q_num": 20,
+        "dimension": "I",
+        "q_zh": "",
+        "current_team": 3.65,
+        "current_stakeholder": 3.2,
+        "current_all": 3.2,
+        "expected_team": 4.65,
+        "expected_stakeholder": 4.15,
+        "expected_all": 4.15
+      },
+      {
+        "q_num": 21,
+        "dimension": "I",
+        "q_zh": "",
+        "current_team": 3.45,
+        "current_stakeholder": 3.3,
+        "current_all": 3.3,
+        "expected_team": 4.7,
+        "expected_stakeholder": 4.38,
+        "expected_all": 4.38
+      },
+      {
+        "q_num": 22,
+        "dimension": "I",
+        "q_zh": "",
+        "current_team": 3.55,
+        "current_stakeholder": 3.53,
+        "current_all": 3.53,
+        "expected_team": 4.82,
+        "expected_stakeholder": 4.7,
+        "expected_all": 4.7
+      },
+      {
+        "q_num": 23,
+        "dimension": "I",
+        "q_zh": "",
+        "current_team": 3.7,
+        "current_stakeholder": 3.63,
+        "current_all": 3.63,
+        "expected_team": 4.82,
+        "expected_stakeholder": 4.68,
+        "expected_all": 4.68
+      },
+      {
+        "q_num": 24,
+        "dimension": "I",
+        "q_zh": "",
+        "current_team": 2.78,
+        "current_stakeholder": 2.83,
+        "current_all": 2.83,
+        "expected_team": 4.05,
+        "expected_stakeholder": 4.07,
+        "expected_all": 4.07
+      },
+      {
+        "q_num": 25,
+        "dimension": "L",
+        "q_zh": "",
+        "current_team": 4.03,
+        "current_stakeholder": 3.65,
+        "current_all": 3.65,
+        "expected_team": 4.95,
+        "expected_stakeholder": 4.53,
+        "expected_all": 4.53
+      },
+      {
+        "q_num": 26,
+        "dimension": "L",
+        "q_zh": "",
+        "current_team": 3.05,
+        "current_stakeholder": 3.02,
+        "current_all": 3.02,
+        "expected_team": 4.18,
+        "expected_stakeholder": 4.02,
+        "expected_all": 4.02
+      },
+      {
+        "q_num": 27,
+        "dimension": "L",
+        "q_zh": "",
+        "current_team": 2.92,
+        "current_stakeholder": 3.0,
+        "current_all": 3.0,
+        "expected_team": 4.15,
+        "expected_stakeholder": 4.2,
+        "expected_all": 4.2
+      },
+      {
+        "q_num": 28,
+        "dimension": "L",
+        "q_zh": "",
+        "current_team": 2.78,
+        "current_stakeholder": 2.8,
+        "current_all": 2.8,
+        "expected_team": 4.12,
+        "expected_stakeholder": 3.97,
+        "expected_all": 3.97
+      },
+      {
+        "q_num": 29,
+        "dimension": "L",
+        "q_zh": "",
+        "current_team": 2.78,
+        "current_stakeholder": 2.77,
+        "current_all": 2.77,
+        "expected_team": 3.6,
+        "expected_stakeholder": 3.6,
+        "expected_all": 3.6
+      },
+      {
+        "q_num": 30,
+        "dimension": "L",
+        "q_zh": "",
+        "current_team": 3.02,
+        "current_stakeholder": 2.95,
+        "current_all": 2.95,
+        "expected_team": 4.28,
+        "expected_stakeholder": 4.13,
+        "expected_all": 4.13
+      },
+      {
+        "q_num": 31,
+        "dimension": "Ld",
+        "q_zh": "",
+        "current_team": 3.35,
+        "current_stakeholder": 3.0,
+        "current_all": 3.0,
+        "expected_team": 4.6,
+        "expected_stakeholder": 4.07,
+        "expected_all": 4.07
+      },
+      {
+        "q_num": 32,
+        "dimension": "Ld",
+        "q_zh": "",
+        "current_team": 3.82,
+        "current_stakeholder": 3.48,
+        "current_all": 3.48,
+        "expected_team": 4.9,
+        "expected_stakeholder": 4.42,
+        "expected_all": 4.42
+      },
+      {
+        "q_num": 33,
+        "dimension": "Ld",
+        "q_zh": "",
+        "current_team": 2.78,
+        "current_stakeholder": 2.65,
+        "current_all": 2.65,
+        "expected_team": 4.0,
+        "expected_stakeholder": 3.82,
+        "expected_all": 3.82
+      },
+      {
+        "q_num": 34,
+        "dimension": "Ld",
+        "q_zh": "",
+        "current_team": 3.38,
+        "current_stakeholder": 3.28,
+        "current_all": 3.28,
+        "expected_team": 4.7,
+        "expected_stakeholder": 4.45,
+        "expected_all": 4.45
+      },
+      {
+        "q_num": 35,
+        "dimension": "Ld",
+        "q_zh": "",
+        "current_team": 2.72,
+        "current_stakeholder": 2.55,
+        "current_all": 2.55,
+        "expected_team": 3.85,
+        "expected_stakeholder": 3.62,
+        "expected_all": 3.62
+      }
+    ]
+  },
+  "metadata": {
+    "respondent_count": 6,
+    "respondents": [
+      {
+        "name": "Team Member 1\n团队成员1",
+        "role": "Team Member"
+      },
+      {
+        "name": "Team Member 2\n团队成员2",
+        "role": "Team Member"
+      },
+      {
+        "name": "Team Member 3\n团队成员3",
+        "role": "Team Member"
+      },
+      {
+        "name": "Team Leader\n团队领导",
+        "role": "Team Leader"
+      },
+      {
+        "name": "Stakeholder 1\n相关方1",
+        "role": "Stakeholder"
+      },
+      {
+        "name": "Stakeholder 2\n相关方2",
+        "role": "Stakeholder"
+      }
+    ],
+    "team_background": "测试团队：成立于2020年，8人规模，主要从事互联网产品开发。团队成员背景多元化，包括技术、设计和运营。"
+  }
+}
